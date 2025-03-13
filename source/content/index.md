@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: MLDocumentary
 ---
 
-Hello world!
-
-Write some words here!
+Welcome!
